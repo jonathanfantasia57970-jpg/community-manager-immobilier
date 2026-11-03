@@ -1,0 +1,53 @@
+{
+  "version": 4,
+  "font": "fonts/Montserrat.ttf",
+  "colors": {
+    "white": "#FAFAF7",
+    "accent": "#FF9F43",
+    "navy": "#102330",
+    "text": "#FAFAF7"
+  },
+  "canvas": {
+    "width": 1080,
+    "height": 1350,
+    "margin": 72
+  },
+  "headline": {
+    "weight": 800,
+    "size": 86,
+    "min_size": 72,
+    "line_height": 1.08,
+    "baseline": 164,
+    "max_lines": 4
+  },
+  "disclosure": {
+    "text": "Illustration IA",
+    "weight": 500,
+    "size": 22,
+    "x": 72,
+    "baseline": 1310
+  },
+  "signature": {
+    "width": 650,
+    "height": 170,
+    "x": 72,
+    "y": 1112,
+    "rule_width": 60,
+    "rule_height": 4,
+    "name": null,
+    "name_weight": 700,
+    "name_size": 46,
+    "name_baseline": 66,
+    "role_lines": [
+      "Conseiller immobilier"
+    ],
+    "role_weight": 500,
+    "role_size": 34,
+    "role_baseline": 110,
+    "role_line_height": 40
+  },
+  "photography": {
+    "default": "light_natural",
+    "note": "Préserver blanc cassé et orange canoniques. Adapter photographie, cadrage et contrastes localisés pour les textes ; décor global clair, aucun vaste fond bleu nuit ni voile global."
+  }
+}

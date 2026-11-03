@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.2",
+  "template": true,
+  "project_id": null,
+  "canonical_record": null,
+  "owner": null,
+  "business_profile": null,
+  "brief": {
+    "audience": null,
+    "situation": null,
+    "objective": null,
+    "viewer_gain": null,
+    "message": null,
+    "evidence": [],
+    "offer": null,
+    "cta": null,
+    "destination": null,
+    "channels": [],
+    "production_route": null,
+    "constraints": {
+      "filming": null,
+      "paid_generation": null,
+      "authorized_budget": null
+    }
+  },
+  "assets": [],
+  "decisions": [],
+  "script": {
+    "version": null,
+    "text": null
+  },
+  "storyboard": null,
+  "voice": {
+    "source": null,
+    "provider": null,
+    "model": null,
+    "voice_id": null,
+    "approved_file": null,
+    "scope_of_approval": null,
+    "controls_verified": [],
+    "status": null
+  },
+  "edit": {
+    "project_file": null,
+    "source_timecodes": [],
+    "timeline_version": null
+  },
+  "outputs": [],
+  "quality": {
+    "file_version": null,
+    "visual_coverage": null,
+    "listening_coverage": null,
+    "reviews": [],
+    "open_defects": [],
+    "correction_passes": 0,
+    "decision": null
+  },
+  "status": "cadrage",
+  "next_step": {
+    "action": null,
+    "owner": null,
+    "condition": null
+  },
+  "publication": {
+    "authority": null,
+    "status": "non_demandée",
+    "receipt": null
+  },
+  "media_consultation": {
+    "source": null,
+    "business_id": null,
+    "consulted_at": null,
+    "scope": null,
+    "filters": [],
+    "pagination_complete": null,
+    "coverage_limitations": [],
+    "candidates_opened": [],
+    "selected": [],
+    "excluded": [],
+    "missing_assets": [],
+    "reuse_of_prior_consultation": null
+  },
+  "editorial_brief": {
+    "canonical_ref": null,
+    "revision_read": null,
+    "mode": null,
+    "requested_contribution": null
+  }
+}
