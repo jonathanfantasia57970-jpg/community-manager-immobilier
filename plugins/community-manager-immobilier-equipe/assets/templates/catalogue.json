@@ -1,0 +1,990 @@
+[
+  {
+    "id": "M001",
+    "name": "Carrousel pédagogique",
+    "family": "Pédagogie",
+    "objective": [
+      "Expliquer"
+    ],
+    "formats": [
+      "Carrousel"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs",
+      "Conseillers",
+      "Entrepreneurs"
+    ],
+    "layout": "carousel",
+    "titles": [
+      "{Question concrète}",
+      "{Repère 1}",
+      "{Repère 2}",
+      "{Repère 3}",
+      "{Exemple expliqué}",
+      "{Prochaine étape}"
+    ],
+    "principle": "Dérouler une idée utile, une étape par écran, puis proposer une action.",
+    "when": "Un sujet demande une explication progressive plutôt qu’une seule accroche.",
+    "fail": "Trop de texte, une promesse non tenue ou des slides interchangeables.",
+    "variables": [
+      "question",
+      "4 repères ou exemples",
+      "source",
+      "action"
+    ],
+    "example": "Les étapes pour préparer une première visite, avec les documents réellement utiles.",
+    "concepts": [
+      6,
+      10,
+      28
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M001_01.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M001_02.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M001_03.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M001_04.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M001_05.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M001_06.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M002",
+    "name": "Checklist enregistrable",
+    "family": "Pédagogie",
+    "objective": [
+      "Expliquer",
+      "Rassurer"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs",
+      "Conseillers"
+    ],
+    "layout": "checklist",
+    "titles": [
+      "{Avant de… : 5 points}"
+    ],
+    "principle": "Transformer un conseil en vérifications concrètes que le lecteur peut conserver.",
+    "when": "Une préparation ou un contrôle se décompose en cinq actions vérifiables.",
+    "fail": "Conseils vagues, cinq phrases trop longues ou liste présentée comme exhaustive.",
+    "variables": [
+      "situation",
+      "5 actions observables",
+      "limite",
+      "source"
+    ],
+    "example": "Préparer son logement avant une séance photo, sans masquer les défauts.",
+    "concepts": [
+      28,
+      47
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M002_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M003",
+    "name": "Quiz avec révélation",
+    "family": "Participation",
+    "objective": [
+      "Faire réagir",
+      "Expliquer"
+    ],
+    "formats": [
+      "Carrousel",
+      "Story"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Tous publics"
+    ],
+    "layout": "quiz",
+    "titles": [
+      "{Quelle réponse ?}",
+      "{La réponse expliquée}",
+      "{Votre expérience ?}"
+    ],
+    "principle": "Poser une question précise, révéler une réponse sourcée et ouvrir la discussion.",
+    "when": "Une idée reçue admet une réponse claire avec des conditions explicables.",
+    "fail": "Ambiguïté, réponse cachée derrière une collecte de contacts, faux sondage.",
+    "variables": [
+      "question",
+      "choix A et B",
+      "réponse",
+      "explication",
+      "source"
+    ],
+    "example": "Quel élément comparer dans deux estimations ? Expliquer les hypothèses.",
+    "concepts": [
+      28,
+      43
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M003_01.svg",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "file": "M003_02.svg",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "file": "M003_03.svg",
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M004",
+    "name": "Choix A / B",
+    "family": "Participation",
+    "objective": [
+      "Faire réagir"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs",
+      "Tous publics"
+    ],
+    "layout": "choice",
+    "titles": [
+      "{Vous choisissez quoi ?}"
+    ],
+    "principle": "Mettre deux options de même niveau en regard pour recueillir des préférences.",
+    "when": "Deux solutions visuelles ou deux priorités peuvent être comparées honnêtement.",
+    "fail": "Faux dilemme, biais visuel ou différence de qualité entre les options.",
+    "variables": [
+      "question",
+      "photo A",
+      "photo B",
+      "libellés",
+      "question de relance"
+    ],
+    "example": "Pièce en plus ou extérieur : quelle priorité dans votre projet ?",
+    "concepts": [
+      13,
+      37
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M004_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M005",
+    "name": "Diagnostic en deux chemins",
+    "family": "Pédagogie",
+    "objective": [
+      "Expliquer",
+      "Obtenir un contact"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs",
+      "Entrepreneurs"
+    ],
+    "layout": "decision",
+    "titles": [
+      "{Par où commencer ?}"
+    ],
+    "principle": "Orienter vers deux prochaines actions selon une condition simple.",
+    "when": "Un premier tri utile est possible, sans prétendre produire un diagnostic complet.",
+    "fail": "Branches incohérentes, résultat personnalisé sans données ou conseils absolus.",
+    "variables": [
+      "question de tri",
+      "condition oui/non",
+      "action A",
+      "action B",
+      "limite"
+    ],
+    "example": "Projet de vente déjà daté ? Préparer les pièces ou clarifier le calendrier.",
+    "concepts": [
+      7,
+      42
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M005_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M006",
+    "name": "Vrai / faux expliqué",
+    "family": "Pédagogie",
+    "objective": [
+      "Expliquer",
+      "Faire réagir"
+    ],
+    "formats": [
+      "Carrousel"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Tous publics"
+    ],
+    "layout": "myth",
+    "titles": [
+      "{Vrai ou faux ?}",
+      "{Réponse et nuance}",
+      "{Le bon réflexe}"
+    ],
+    "principle": "Examiner une affirmation puis expliquer la nuance et l’action utile.",
+    "when": "Une croyance fréquente mérite une correction documentée.",
+    "fail": "Simplifier une question juridique ou financière en verdict universel.",
+    "variables": [
+      "affirmation",
+      "verdict nuancé",
+      "preuve actuelle",
+      "action"
+    ],
+    "example": "Une surface suffit-elle à déterminer un prix ? Expliquer les autres critères.",
+    "concepts": [
+      7,
+      43
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M006_01.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M006_02.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M006_03.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M007",
+    "name": "Fiche de bien immobilier",
+    "family": "Immobilier",
+    "objective": [
+      "Valoriser un bien",
+      "Obtenir un contact"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "Google Business",
+      "Meta Ads"
+    ],
+    "public": [
+      "Acquéreurs"
+    ],
+    "layout": "property",
+    "titles": [
+      "{Type de bien · commune}"
+    ],
+    "principle": "Réunir une photo authentique, les caractéristiques clés et une suite claire.",
+    "when": "Le bien, son prix et les informations nécessaires sont validés et diffusables.",
+    "fail": "Données périmées, attributs inventés, retouche trompeuse ou mentions illisibles.",
+    "variables": [
+      "photo réelle",
+      "commune",
+      "surface",
+      "pièces",
+      "prix",
+      "référence",
+      "mentions requises",
+      "contact"
+    ],
+    "example": "Mettre en avant un bien disponible issu du dossier validé, puis renvoyer vers sa fiche.",
+    "concepts": [
+      10,
+      29
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M007_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M008",
+    "name": "Visite guidée en carrousel",
+    "family": "Immobilier",
+    "objective": [
+      "Valoriser un bien",
+      "Obtenir un contact"
+    ],
+    "formats": [
+      "Carrousel"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Acquéreurs"
+    ],
+    "layout": "tour",
+    "titles": [
+      "{Découvrir ce lieu}",
+      "{La pièce de vie}",
+      "{Un espace à vivre}",
+      "{Le détail utile}",
+      "{Les repères du bien}",
+      "{Organiser une visite}"
+    ],
+    "principle": "Faire visiter un lieu à travers une séquence de photos réelles et légendées.",
+    "when": "Un dossier photo cohérent permet un parcours compréhensible du bien.",
+    "fail": "Répéter la même photo, cacher les contraintes ou mélanger plusieurs biens.",
+    "variables": [
+      "5 photos validées",
+      "légendes",
+      "caractéristiques",
+      "référence",
+      "mentions",
+      "contact"
+    ],
+    "example": "Une visite du séjour vers les autres espaces, sans inventer de circulation.",
+    "concepts": [
+      10,
+      22
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M008_01.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M008_02.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M008_03.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M008_04.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M008_05.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M008_06.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M009",
+    "name": "Repères de quartier",
+    "family": "Immobilier",
+    "objective": [
+      "Expliquer",
+      "Valoriser un bien"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "Google Business"
+    ],
+    "public": [
+      "Acquéreurs",
+      "Vendeurs"
+    ],
+    "layout": "local",
+    "titles": [
+      "{Autour de ce quartier}"
+    ],
+    "principle": "Associer une carte utilisable et trois repères locaux vérifiés.",
+    "when": "La localisation et les services apportent une information utile au projet.",
+    "fail": "Temps de trajet inventés, carte non autorisée ou adresse privée dévoilée.",
+    "variables": [
+      "carte autorisée",
+      "zone",
+      "3 repères",
+      "distance ou trajet vérifié",
+      "source et date"
+    ],
+    "example": "Présenter les services autour d’un secteur avec leur source, sans publier une adresse privée.",
+    "concepts": [
+      11,
+      49
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M009_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M010",
+    "name": "Point de marché local",
+    "family": "Immobilier",
+    "objective": [
+      "Expliquer",
+      "Rassurer"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "Google Business"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs"
+    ],
+    "layout": "market",
+    "titles": [
+      "{Le marché · secteur}"
+    ],
+    "principle": "Présenter trois indicateurs comparables avec période, périmètre et lecture prudente.",
+    "when": "Des données fiables, datées et suffisamment représentatives sont disponibles.",
+    "fail": "Confondre prix affichés et vendus, moyenne et médiane, ou masquer le faible échantillon.",
+    "variables": [
+      "zone",
+      "période",
+      "3 indicateurs",
+      "unités",
+      "effectif",
+      "source",
+      "méthode",
+      "limites"
+    ],
+    "example": "Comparer des transactions sur un secteur et une période définis, sans extrapoler à un bien.",
+    "concepts": [
+      20,
+      11
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M010_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M011",
+    "name": "Étude de cas client",
+    "family": "Preuve",
+    "objective": [
+      "Rassurer",
+      "Obtenir un contact"
+    ],
+    "formats": [
+      "Carrousel"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "Meta Ads"
+    ],
+    "public": [
+      "Vendeurs",
+      "Conseillers",
+      "Entrepreneurs"
+    ],
+    "layout": "case",
+    "titles": [
+      "{Une situation réelle}",
+      "{Le point de départ}",
+      "{Ce qui a été fait}",
+      "{Ce qui a changé}",
+      "{Ce que cela enseigne}"
+    ],
+    "principle": "Raconter contexte, actions et résultat documenté avec ses limites.",
+    "when": "Un cas réel est documenté et son usage respecte les autorisations nécessaires.",
+    "fail": "Inventer des résultats, attribuer toute l’évolution à une action ou identifier un client sans accord.",
+    "variables": [
+      "contexte",
+      "contrainte",
+      "actions",
+      "résultat daté",
+      "preuve",
+      "limites",
+      "accord de citation"
+    ],
+    "example": "Une préparation de vente racontée étape par étape avec les seules données vérifiables.",
+    "concepts": [
+      33,
+      34
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M011_01.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M011_02.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M011_03.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M011_04.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M011_05.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M012",
+    "name": "Portrait de conseiller",
+    "family": "Équipe",
+    "objective": [
+      "Notoriété",
+      "Rassurer",
+      "Recruter"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs",
+      "Conseillers"
+    ],
+    "layout": "portrait",
+    "titles": [
+      "{Prénom · rôle}"
+    ],
+    "principle": "Donner un visage réel à une compétence, avec une preuve concrète et une ouverture.",
+    "when": "Une personne souhaite être présentée et ses informations sont validées.",
+    "fail": "Portrait inventé, citation fabriquée ou promesses de revenus non étayées.",
+    "variables": [
+      "portrait réel autorisé",
+      "nom",
+      "rôle",
+      "secteur",
+      "fait concret",
+      "citation validée",
+      "contact"
+    ],
+    "example": "Présenter le conseiller ou un conseiller de l’équipe à partir de son portrait et de faits validés.",
+    "concepts": [
+      22,
+      34
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M012_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M013",
+    "name": "Parcours d’accompagnement",
+    "family": "Équipe",
+    "objective": [
+      "Rassurer",
+      "Expliquer",
+      "Recruter"
+    ],
+    "formats": [
+      "Statique"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Vendeurs",
+      "Conseillers",
+      "Entrepreneurs"
+    ],
+    "layout": "timeline",
+    "titles": [
+      "{Comment ça se passe ?}"
+    ],
+    "principle": "Montrer quatre étapes de collaboration et le livrable utile à chaque étape.",
+    "when": "Le public hésite parce qu’il ne comprend pas le déroulement de l’accompagnement.",
+    "fail": "Processus théorique présenté comme garanti ou délais irréalistes.",
+    "variables": [
+      "4 étapes",
+      "livrable par étape",
+      "rôle de chacun",
+      "prochaine action"
+    ],
+    "example": "Un parcours d’intégration de conseiller réellement proposé par l’équipe.",
+    "concepts": [
+      10,
+      47
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M013_01.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M014",
+    "name": "Coulisses en trois moments",
+    "family": "Coulisses",
+    "objective": [
+      "Notoriété",
+      "Rassurer"
+    ],
+    "formats": [
+      "Carrousel"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs",
+      "Conseillers"
+    ],
+    "layout": "behind",
+    "titles": [
+      "{Avant : la préparation}",
+      "{Pendant : le geste utile}",
+      "{Après : ce qui est prêt}"
+    ],
+    "principle": "Rendre visible un travail réel par trois photos et trois légendes factuelles.",
+    "when": "Des images de terrain montrent quelque chose d’utile au public.",
+    "fail": "Mise en scène mensongère, données de clients visibles ou récit vécu inventé.",
+    "variables": [
+      "3 photos réelles",
+      "contexte",
+      "geste",
+      "livrable",
+      "autorisations"
+    ],
+    "example": "La préparation d’une visite ou d’une séance photo, sans exposer de données privées.",
+    "concepts": [
+      22,
+      48
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M014_01.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M014_02.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M014_03.svg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M015",
+    "name": "Couvertures vidéo",
+    "family": "Vidéo",
+    "objective": [
+      "Notoriété",
+      "Expliquer"
+    ],
+    "formats": [
+      "Couverture vidéo",
+      "Story"
+    ],
+    "channels": [
+      "YouTube",
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "public": [
+      "Tous publics"
+    ],
+    "layout": "video",
+    "titles": [
+      "{Une question · 5 mots}",
+      "{Une question · 5 mots}"
+    ],
+    "principle": "Rendre la promesse du contenu lisible en une image fidèle à la vidéo.",
+    "when": "La vidéo est définie et une image réelle peut représenter son sujet.",
+    "fail": "Promesse absente de la vidéo, visage faux, texte trop long ou éléments masqués par l’interface.",
+    "variables": [
+      "titre court",
+      "image réelle",
+      "identité",
+      "sujet de la vidéo"
+    ],
+    "example": "Une couverture « Comment préparer sa visite ? » cohérente avec la vidéo tournée.",
+    "concepts": [
+      20,
+      52
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M015_01.svg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "M015_02.svg",
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  },
+  {
+    "id": "M016",
+    "name": "Invitation à un événement",
+    "family": "Participation",
+    "objective": [
+      "Faire réagir",
+      "Obtenir un contact",
+      "Recruter"
+    ],
+    "formats": [
+      "Statique",
+      "Story"
+    ],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "Google Business"
+    ],
+    "public": [
+      "Vendeurs",
+      "Acquéreurs",
+      "Conseillers",
+      "Entrepreneurs"
+    ],
+    "layout": "event",
+    "titles": [
+      "{Un atelier utile}",
+      "{Un atelier utile}"
+    ],
+    "principle": "Faire comprendre le bénéfice, le lieu, la date et la façon de participer.",
+    "when": "Un rendez-vous réel a une date, un lieu et un mode d’inscription confirmés.",
+    "fail": "Information manquante, fausse rareté ou inscription inaccessible.",
+    "variables": [
+      "bénéfice",
+      "date",
+      "heure et fuseau",
+      "lieu",
+      "conditions",
+      "lien",
+      "contact"
+    ],
+    "example": "Annoncer un atelier vendeur ou une rencontre métier effectivement organisé.",
+    "concepts": [
+      29,
+      31
+    ],
+    "version": 1,
+    "date": "2026-10-31",
+    "dimensions": [
+      {
+        "file": "M016_01.svg",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "file": "M016_02.svg",
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "status": "Prêt à adapter",
+    "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+    "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+  }
+]

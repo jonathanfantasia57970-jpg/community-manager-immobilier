@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "description": "Community management immobilier organique, règles éditoriales et relectures, bibliothèque créative et médiathèque personnelles.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "Interactive"
+        ],
+        "category": "Business & Operations",
+        "composerIcon": "./assets/icon.svg",
+        "defaultPrompt": [
+          "Configurer mon community manager immobilier et ma médiathèque.",
+          "Préparer mes contenus immobiliers avec les relectures prévues.",
+          "Classer mes photos et vidéos et choisir un modèle adapté."
+        ],
+        "developerName": "Community Manager Immobilier",
+        "displayName": "Community Manager Immobilier",
+        "logo": "./assets/icon.svg",
+        "longDescription": "Un pilote et ses spécialistes Facebook, Instagram, LinkedIn, Google Business et YouTube, avec veille, relectures, bibliothèque de 69 fiches dont 16 familles originales et 38 compositions modifiables, médiathèque photo/vidéo, retouche, montage et suivi. Chaque conseiller configure ses propres comptes, médias et Notion. Leadership et recrutement désactivables. Publicité payante exclue. Les connexions et possibilités d’exécution dépendent du compte.",
+        "shortDescription": "Contenus, modèles et médias"
+      },
+      "onboardingSkill": "./skills/equipe-configurer-espace/SKILL.md"
+    }
+  },
+  "name": "community-manager-immobilier-equipe",
+  "version": "0.2.1"
+}

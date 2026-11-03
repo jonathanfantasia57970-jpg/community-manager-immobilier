@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "skills": {
+    "equipe-animer-communaute-facebook": "skills/equipe-animer-communaute-facebook/SKILL.md",
+    "equipe-animer-instagram-immobilier": "skills/equipe-animer-instagram-immobilier/SKILL.md",
+    "equipe-configurer-espace": "skills/equipe-configurer-espace/SKILL.md",
+    "equipe-coordonner-activite": "skills/equipe-coordonner-activite/SKILL.md",
+    "equipe-creer-monter-videos": "skills/equipe-creer-monter-videos/SKILL.md",
+    "equipe-creer-posts-linkedin-immobilier": "skills/equipe-creer-posts-linkedin-immobilier/SKILL.md",
+    "equipe-exploiter-bibliotheque-creative": "skills/equipe-exploiter-bibliotheque-creative/SKILL.md",
+    "equipe-gerer-mediatheque": "skills/equipe-gerer-mediatheque/SKILL.md",
+    "equipe-monter-videos": "skills/equipe-monter-videos/SKILL.md",
+    "equipe-piloter-community-management": "skills/equipe-piloter-community-management/SKILL.md",
+    "equipe-piloter-contenu-google-immobilier": "skills/equipe-piloter-contenu-google-immobilier/SKILL.md",
+    "equipe-piloter-planification-conversations": "skills/equipe-piloter-planification-conversations/SKILL.md",
+    "equipe-piloter-youtube-immobilier": "skills/equipe-piloter-youtube-immobilier/SKILL.md",
+    "equipe-rendre-compte-actions": "skills/equipe-rendre-compte-actions/SKILL.md",
+    "equipe-retoucher-photos-immobilieres": "skills/equipe-retoucher-photos-immobilieres/SKILL.md",
+    "equipe-veille-editoriale-immobilier": "skills/equipe-veille-editoriale-immobilier/SKILL.md"
+  }
+}
