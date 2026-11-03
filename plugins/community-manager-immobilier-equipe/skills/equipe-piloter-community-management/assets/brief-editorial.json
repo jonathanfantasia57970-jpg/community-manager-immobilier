@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "brief_id": null,
+  "business_id": null,
+  "canal": null,
+  "entree_canonique": null,
+  "revision": 1,
+  "etat": "besoin_cadre",
+  "proprietaire_metier": null,
+  "besoin": {
+    "origine": null,
+    "public": null,
+    "situation": null,
+    "objectif": null,
+    "apport_recherche": null,
+    "contexte_et_contenus_recents": [],
+    "instructions_explicites": [],
+    "format_explicitement_demande": null,
+    "echeance": null,
+    "fuseau": null,
+    "contraintes": [],
+    "mandat_reference": null
+  },
+  "proposition_editoriale": {
+    "specialiste": null,
+    "sujet": null,
+    "angle": null,
+    "idee_centrale": null,
+    "utilite_distincte": null,
+    "preuves_et_sources": [],
+    "nuances": [],
+    "suite_utile": null,
+    "a_preserver": [],
+    "reserves": [],
+    "avis_recu_reference": null
+  },
+  "decision_fond": {
+    "statut": "en_attente",
+    "responsable": null,
+    "motif": null,
+    "reference_avis": null,
+    "revision_retenue": null
+  },
+  "consultations": {
+    "mediatheque": {
+      "source": null,
+      "perimetre": null,
+      "limites": [],
+      "medias_examines": [],
+      "selection": []
+    },
+    "bibliotheque_creative": {
+      "source": null,
+      "couverture": null,
+      "candidats_examines": [],
+      "choix_et_motif": null
+    }
+  },
+  "decision_format": {
+    "formats_compares": [],
+    "recommandation_specialiste": null,
+    "gain_audiovisuel_ou_motif_statique": null,
+    "avis_technique_reference": null,
+    "faisabilite": {
+      "outils_et_controles": null,
+      "cout_connu_ou_estime": null,
+      "delai": null,
+      "charge_humaine": null,
+      "droits": null,
+      "inconnues": []
+    },
+    "format_retenu": null,
+    "mode_production": null,
+    "responsable_arbitrage": null,
+    "motif": null
+  },
+  "production": {
+    "executant": null,
+    "revision_brief_lue": null,
+    "projet_technique_reference": null,
+    "texte_integral_reference": null,
+    "medias_finaux": [],
+    "ecarts_et_obstacles": []
+  },
+  "controles": {
+    "revues_requises": [],
+    "revues_effectuees": [],
+    "premiere_impression": {
+      "statut": "non_examine",
+      "observations": [],
+      "version_media": null
+    },
+    "autres_controles": [],
+    "reserves_ouvertes": [],
+    "approbation_reference": null,
+    "revision_et_destination_approuvees": null
+  },
+  "relais": [],
+  "historique_decisions": [],
+  "reprise": {
+    "prochaine_action": null,
+    "responsable": null,
+    "condition_ou_echeance": null
+  },
+  "diffusion_registre_reference": null
+}

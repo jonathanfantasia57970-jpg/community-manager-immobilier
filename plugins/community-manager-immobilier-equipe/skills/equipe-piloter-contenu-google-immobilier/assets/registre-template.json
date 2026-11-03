@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "owner": "le conseiller",
+  "channel": "google_business_profile",
+  "created_at": null,
+  "updated_at": null,
+  "strategy": {
+    "primary_objective": "contacts_vendeurs_qualifies",
+    "cadence_recommended_posts_per_week": 2,
+    "cadence_status": "recommended_not_scheduled",
+    "trial_weeks": 8,
+    "timezone": "Europe/Paris"
+  },
+  "entries": [],
+  "recent_angles": [],
+  "analyses": [],
+  "user_feedback": [],
+  "experiments": [],
+  "open_actions": [],
+  "editorial_briefs": {}
+}
