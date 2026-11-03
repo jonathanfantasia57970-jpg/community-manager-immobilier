@@ -1,0 +1,83 @@
+{
+  "id": "M001",
+  "name": "Carrousel pédagogique",
+  "family": "Pédagogie",
+  "objective": [
+    "Expliquer"
+  ],
+  "formats": [
+    "Carrousel"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn"
+  ],
+  "public": [
+    "Vendeurs",
+    "Acquéreurs",
+    "Conseillers",
+    "Entrepreneurs"
+  ],
+  "layout": "carousel",
+  "titles": [
+    "{Question concrète}",
+    "{Repère 1}",
+    "{Repère 2}",
+    "{Repère 3}",
+    "{Exemple expliqué}",
+    "{Prochaine étape}"
+  ],
+  "principle": "Dérouler une idée utile, une étape par écran, puis proposer une action.",
+  "when": "Un sujet demande une explication progressive plutôt qu’une seule accroche.",
+  "fail": "Trop de texte, une promesse non tenue ou des slides interchangeables.",
+  "variables": [
+    "question",
+    "4 repères ou exemples",
+    "source",
+    "action"
+  ],
+  "example": "Les étapes pour préparer une première visite, avec les documents réellement utiles.",
+  "concepts": [
+    6,
+    10,
+    28
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M001_01.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M001_02.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M001_03.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M001_04.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M001_05.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M001_06.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}

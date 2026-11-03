@@ -1,0 +1,159 @@
+{
+  "schema_version": 2,
+  "profile_id": null,
+  "business_id": null,
+  "identity": {
+    "name": null,
+    "role": "Conseiller immobilier",
+    "brand": null,
+    "network": null,
+    "sector": [],
+    "language": "fr-FR",
+    "timezone": null,
+    "public_contact": null
+  },
+  "editorial": {
+    "linkedin": {
+      "leadership_enabled": false,
+      "recruitment_enabled": false,
+      "real_estate_priority": "forte",
+      "portrait_required": false
+    },
+    "tone": "franc, naturel, précis et constructif",
+    "verified_experience": [],
+    "excluded_topics": [],
+    "communication": {
+      "addressing": "vous",
+      "formality": null,
+      "sentence_length": null,
+      "humor": null,
+      "emoji_policy": null,
+      "cta_style": null,
+      "preferred_words": [],
+      "avoided_words": [],
+      "approved_examples": [],
+      "rejected_examples": [],
+      "channel_overrides": {}
+    },
+    "video": {
+      "language": null,
+      "accent": null,
+      "voice_ref": null,
+      "approved_sample_refs": [],
+      "pace_preferences": null
+    },
+    "personal_rules": [],
+    "review": {
+      "preferred_mode": "independent_agents",
+      "fallback_mode": "human_validation",
+      "human_reviewer_ref": null
+    }
+  },
+  "brand": {
+    "charter_url": null,
+    "logo_media_id": null,
+    "portrait_media_id": null,
+    "signature_name": null,
+    "signature_role": [
+      "Conseiller immobilier"
+    ],
+    "linkedin_style_path": null
+  },
+  "notion": {
+    "parent_page": null,
+    "profile_page": null,
+    "coordination_page": null,
+    "content_data_source": null,
+    "creative_data_source": null,
+    "creative_view": null,
+    "media_data_source": null,
+    "media_view": null,
+    "tools_data_source": null
+  },
+  "storage": {
+    "originals_folder": null,
+    "derivatives_folder": null,
+    "registry_refs": {},
+    "schedule_inventory": null,
+    "registry_backend": "personal_persistent_files"
+  },
+  "channels": {
+    "linkedin": {
+      "account_id": null,
+      "url": null,
+      "connector": null,
+      "verified_at": null,
+      "requested": false,
+      "connection_state": "unverified"
+    },
+    "facebook_page": {
+      "account_id": null,
+      "url": null,
+      "connector": null,
+      "verified_at": null,
+      "requested": false,
+      "connection_state": "unverified"
+    },
+    "facebook_profile": {
+      "account_id": null,
+      "url": null,
+      "connector": null,
+      "verified_at": null,
+      "requested": false,
+      "connection_state": "unverified"
+    },
+    "instagram": {
+      "account_id": null,
+      "url": null,
+      "connector": null,
+      "verified_at": null,
+      "requested": false,
+      "connection_state": "unverified"
+    },
+    "google_business": {
+      "account_id": null,
+      "url": null,
+      "connector": null,
+      "verified_at": null,
+      "requested": false,
+      "connection_state": "unverified"
+    },
+    "youtube": {
+      "account_id": null,
+      "url": null,
+      "connector": null,
+      "verified_at": null,
+      "requested": false,
+      "connection_state": "unverified"
+    }
+  },
+  "permissions": {
+    "drafts": true,
+    "remote_writes": false,
+    "publishing": false,
+    "scheduling": false,
+    "messages": false,
+    "metrics_collection": false,
+    "recurring_tasks": false
+  },
+  "schedules": [],
+  "mandates": [],
+  "mandate_template": {
+    "id": null,
+    "instruction_ref": null,
+    "granted_at": null,
+    "business_id": null,
+    "service": null,
+    "account_id": null,
+    "actions": [],
+    "content_scope": null,
+    "limits": {},
+    "expires_at": null,
+    "revoked_at": null
+  },
+  "personalization": {
+    "revision": 0,
+    "source_refs": [],
+    "updated_at": null
+  }
+}
