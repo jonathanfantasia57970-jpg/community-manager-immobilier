@@ -1,0 +1,52 @@
+{
+  "id": "M004",
+  "name": "Choix A / B",
+  "family": "Participation",
+  "objective": [
+    "Faire réagir"
+  ],
+  "formats": [
+    "Statique"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn"
+  ],
+  "public": [
+    "Vendeurs",
+    "Acquéreurs",
+    "Tous publics"
+  ],
+  "layout": "choice",
+  "titles": [
+    "{Vous choisissez quoi ?}"
+  ],
+  "principle": "Mettre deux options de même niveau en regard pour recueillir des préférences.",
+  "when": "Deux solutions visuelles ou deux priorités peuvent être comparées honnêtement.",
+  "fail": "Faux dilemme, biais visuel ou différence de qualité entre les options.",
+  "variables": [
+    "question",
+    "photo A",
+    "photo B",
+    "libellés",
+    "question de relance"
+  ],
+  "example": "Pièce en plus ou extérieur : quelle priorité dans votre projet ?",
+  "concepts": [
+    13,
+    37
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M004_01.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "M006",
+  "name": "Vrai / faux expliqué",
+  "family": "Pédagogie",
+  "objective": [
+    "Expliquer",
+    "Faire réagir"
+  ],
+  "formats": [
+    "Carrousel"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn"
+  ],
+  "public": [
+    "Tous publics"
+  ],
+  "layout": "myth",
+  "titles": [
+    "{Vrai ou faux ?}",
+    "{Réponse et nuance}",
+    "{Le bon réflexe}"
+  ],
+  "principle": "Examiner une affirmation puis expliquer la nuance et l’action utile.",
+  "when": "Une croyance fréquente mérite une correction documentée.",
+  "fail": "Simplifier une question juridique ou financière en verdict universel.",
+  "variables": [
+    "affirmation",
+    "verdict nuancé",
+    "preuve actuelle",
+    "action"
+  ],
+  "example": "Une surface suffit-elle à déterminer un prix ? Expliquer les autres critères.",
+  "concepts": [
+    7,
+    43
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M006_01.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M006_02.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M006_03.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F5F2EA"/>
+<rect x="64" y="64" width="12" height="32" rx="6" fill="#EC694A"/>
+<text x="94" y="84.17" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" fill="#172B35">PÉDAGOGIE</text>
+<text x="64" y="193.19" font-family="DejaVu Sans, Arial, sans-serif" font-size="61" font-weight="700" fill="#172B35">{Vrai ou faux ?}</text>
+<line x1="64" y1="1224" x2="1016" y2="1224" stroke="#CDD7D0" stroke-width="2"/>
+<text x="64" y="1272.17" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" fill="#172B35">{Nom / marque}</text>
+<text x="890" y="1272.17" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" fill="#62747A">01 / 03</text>
+<text x="64" y="423.18" font-family="DejaVu Sans, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B35">{Question ou affirmation</text>
+<text x="64" y="477.18" font-family="DejaVu Sans, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B35">compréhensible sans contexte}</text>
+<rect x="64" y="700" width="952" height="175" rx="22" fill="#FFFFFF"/>
+<text x="100" y="765.65" font-family="DejaVu Sans, Arial, sans-serif" font-size="35" font-weight="700" fill="#EC694A">VRAI</text>
+<text x="285" y="772.65" font-family="DejaVu Sans, Arial, sans-serif" font-size="35" font-weight="400" fill="#172B35">{Option ou position}</text>
+<rect x="64" y="925" width="952" height="175" rx="22" fill="#FFFFFF"/>
+<text x="100" y="990.65" font-family="DejaVu Sans, Arial, sans-serif" font-size="35" font-weight="700" fill="#EC694A">FAUX</text>
+<text x="285" y="997.65" font-family="DejaVu Sans, Arial, sans-serif" font-size="35" font-weight="400" fill="#172B35">{Option ou position}</text>
+</svg>

@@ -1,0 +1,53 @@
+{
+  "id": "M005",
+  "name": "Diagnostic en deux chemins",
+  "family": "Pédagogie",
+  "objective": [
+    "Expliquer",
+    "Obtenir un contact"
+  ],
+  "formats": [
+    "Statique"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn"
+  ],
+  "public": [
+    "Vendeurs",
+    "Acquéreurs",
+    "Entrepreneurs"
+  ],
+  "layout": "decision",
+  "titles": [
+    "{Par où commencer ?}"
+  ],
+  "principle": "Orienter vers deux prochaines actions selon une condition simple.",
+  "when": "Un premier tri utile est possible, sans prétendre produire un diagnostic complet.",
+  "fail": "Branches incohérentes, résultat personnalisé sans données ou conseils absolus.",
+  "variables": [
+    "question de tri",
+    "condition oui/non",
+    "action A",
+    "action B",
+    "limite"
+  ],
+  "example": "Projet de vente déjà daté ? Préparer les pièces ou clarifier le calendrier.",
+  "concepts": [
+    7,
+    42
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M005_01.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}
