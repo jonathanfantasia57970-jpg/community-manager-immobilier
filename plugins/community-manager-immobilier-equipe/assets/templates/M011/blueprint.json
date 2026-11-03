@@ -1,0 +1,80 @@
+{
+  "id": "M011",
+  "name": "Étude de cas client",
+  "family": "Preuve",
+  "objective": [
+    "Rassurer",
+    "Obtenir un contact"
+  ],
+  "formats": [
+    "Carrousel"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn",
+    "Meta Ads"
+  ],
+  "public": [
+    "Vendeurs",
+    "Conseillers",
+    "Entrepreneurs"
+  ],
+  "layout": "case",
+  "titles": [
+    "{Une situation réelle}",
+    "{Le point de départ}",
+    "{Ce qui a été fait}",
+    "{Ce qui a changé}",
+    "{Ce que cela enseigne}"
+  ],
+  "principle": "Raconter contexte, actions et résultat documenté avec ses limites.",
+  "when": "Un cas réel est documenté et son usage respecte les autorisations nécessaires.",
+  "fail": "Inventer des résultats, attribuer toute l’évolution à une action ou identifier un client sans accord.",
+  "variables": [
+    "contexte",
+    "contrainte",
+    "actions",
+    "résultat daté",
+    "preuve",
+    "limites",
+    "accord de citation"
+  ],
+  "example": "Une préparation de vente racontée étape par étape avec les seules données vérifiables.",
+  "concepts": [
+    33,
+    34
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M011_01.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M011_02.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M011_03.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M011_04.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M011_05.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}

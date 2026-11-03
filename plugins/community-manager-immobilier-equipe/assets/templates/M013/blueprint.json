@@ -1,0 +1,53 @@
+{
+  "id": "M013",
+  "name": "Parcours d’accompagnement",
+  "family": "Équipe",
+  "objective": [
+    "Rassurer",
+    "Expliquer",
+    "Recruter"
+  ],
+  "formats": [
+    "Statique"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn"
+  ],
+  "public": [
+    "Vendeurs",
+    "Conseillers",
+    "Entrepreneurs"
+  ],
+  "layout": "timeline",
+  "titles": [
+    "{Comment ça se passe ?}"
+  ],
+  "principle": "Montrer quatre étapes de collaboration et le livrable utile à chaque étape.",
+  "when": "Le public hésite parce qu’il ne comprend pas le déroulement de l’accompagnement.",
+  "fail": "Processus théorique présenté comme garanti ou délais irréalistes.",
+  "variables": [
+    "4 étapes",
+    "livrable par étape",
+    "rôle de chacun",
+    "prochaine action"
+  ],
+  "example": "Un parcours d’intégration de conseiller réellement proposé par l’équipe.",
+  "concepts": [
+    10,
+    47
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M013_01.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}

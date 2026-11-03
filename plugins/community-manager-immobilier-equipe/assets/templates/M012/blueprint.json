@@ -1,0 +1,56 @@
+{
+  "id": "M012",
+  "name": "Portrait de conseiller",
+  "family": "Équipe",
+  "objective": [
+    "Notoriété",
+    "Rassurer",
+    "Recruter"
+  ],
+  "formats": [
+    "Statique"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn"
+  ],
+  "public": [
+    "Vendeurs",
+    "Acquéreurs",
+    "Conseillers"
+  ],
+  "layout": "portrait",
+  "titles": [
+    "{Prénom · rôle}"
+  ],
+  "principle": "Donner un visage réel à une compétence, avec une preuve concrète et une ouverture.",
+  "when": "Une personne souhaite être présentée et ses informations sont validées.",
+  "fail": "Portrait inventé, citation fabriquée ou promesses de revenus non étayées.",
+  "variables": [
+    "portrait réel autorisé",
+    "nom",
+    "rôle",
+    "secteur",
+    "fait concret",
+    "citation validée",
+    "contact"
+  ],
+  "example": "Présenter le conseiller ou un conseiller de l’équipe à partir de son portrait et de faits validés.",
+  "concepts": [
+    22,
+    34
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M012_01.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}
