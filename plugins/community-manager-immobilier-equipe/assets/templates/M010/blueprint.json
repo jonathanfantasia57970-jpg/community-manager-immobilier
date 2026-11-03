@@ -1,0 +1,56 @@
+{
+  "id": "M010",
+  "name": "Point de marché local",
+  "family": "Immobilier",
+  "objective": [
+    "Expliquer",
+    "Rassurer"
+  ],
+  "formats": [
+    "Statique"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn",
+    "Google Business"
+  ],
+  "public": [
+    "Vendeurs",
+    "Acquéreurs"
+  ],
+  "layout": "market",
+  "titles": [
+    "{Le marché · secteur}"
+  ],
+  "principle": "Présenter trois indicateurs comparables avec période, périmètre et lecture prudente.",
+  "when": "Des données fiables, datées et suffisamment représentatives sont disponibles.",
+  "fail": "Confondre prix affichés et vendus, moyenne et médiane, ou masquer le faible échantillon.",
+  "variables": [
+    "zone",
+    "période",
+    "3 indicateurs",
+    "unités",
+    "effectif",
+    "source",
+    "méthode",
+    "limites"
+  ],
+  "example": "Comparer des transactions sur un secteur et une période définis, sans extrapoler à un bien.",
+  "concepts": [
+    20,
+    11
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M010_01.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}

@@ -1,0 +1,82 @@
+{
+  "id": "M008",
+  "name": "Visite guidée en carrousel",
+  "family": "Immobilier",
+  "objective": [
+    "Valoriser un bien",
+    "Obtenir un contact"
+  ],
+  "formats": [
+    "Carrousel"
+  ],
+  "channels": [
+    "Facebook",
+    "Instagram",
+    "LinkedIn"
+  ],
+  "public": [
+    "Acquéreurs"
+  ],
+  "layout": "tour",
+  "titles": [
+    "{Découvrir ce lieu}",
+    "{La pièce de vie}",
+    "{Un espace à vivre}",
+    "{Le détail utile}",
+    "{Les repères du bien}",
+    "{Organiser une visite}"
+  ],
+  "principle": "Faire visiter un lieu à travers une séquence de photos réelles et légendées.",
+  "when": "Un dossier photo cohérent permet un parcours compréhensible du bien.",
+  "fail": "Répéter la même photo, cacher les contraintes ou mélanger plusieurs biens.",
+  "variables": [
+    "5 photos validées",
+    "légendes",
+    "caractéristiques",
+    "référence",
+    "mentions",
+    "contact"
+  ],
+  "example": "Une visite du séjour vers les autres espaces, sans inventer de circulation.",
+  "concepts": [
+    10,
+    22
+  ],
+  "version": 1,
+  "date": "2026-10-31",
+  "dimensions": [
+    {
+      "file": "M008_01.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M008_02.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M008_03.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M008_04.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M008_05.svg",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "M008_06.svg",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "status": "Prêt à adapter",
+  "rights": "Composition originale incluse pour les membres de l’équipe ; aucune photo ni marque tierce incluse. Ajouter uniquement des médias dont l’usage est autorisé.",
+  "adaptation": "Les canaux sont des usages possibles : ajuster dimensions, zone sûre et mode de publication. Un carrousel LinkedIn peut nécessiter un export PDF. Les SVG ne sont pas des templates Canva natifs."
+}
