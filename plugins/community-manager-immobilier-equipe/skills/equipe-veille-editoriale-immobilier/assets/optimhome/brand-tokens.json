@@ -1,0 +1,36 @@
+{
+  "reference": {
+    "document": "Charte graphique(5).pdf",
+    "library_file_id": "CONFIG_PERSONAL_FILE_REFERENCE",
+    "edition": "Septembre 2023 · v1.0",
+    "consulted": "2026-10-20",
+    "pages": 26,
+    "status": "Charte fournie par le conseiller ; ne pas affirmer dernière édition du réseau"
+  },
+  "logo": {
+    "file": "logo-orange.png",
+    "provenance": "Actif original conservé dans le modèle Optimhome fourni par le conseiller, repris sans modification depuis le skill estimation",
+    "clear_space_height_factor": 0.5,
+    "print_min_width_mm": 30,
+    "placement_default": "bottom-right",
+    "preserve_original": true
+  },
+  "colors": {
+    "primary_orange": "#FF5C02",
+    "primary_aubergine": "#282850",
+    "white": "#FFFFFF",
+    "secondary_pink": "#E7205F",
+    "secondary_violet": "#5C20CF",
+    "secondary_light_grey": "#F6F6F6",
+    "secondary_dark_grey": "#2B2E32"
+  },
+  "secondary_palette_share_max_exclusive": 0.1,
+  "typography": {
+    "primary": "Poppins",
+    "alternative": "Avenir",
+    "title": "Bold",
+    "subtitle": "SemiBold",
+    "body": "Regular",
+    "caption": "Light Italic"
+  }
+}
